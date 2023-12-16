@@ -81,6 +81,7 @@ li {
     width: 190px;
     padding-top: 30px;
     display: inline-block; /*permite definir uma largura e altura no elemento na mesma linha.*/
+    transition: 0.8s;
 }
 
 li:hover {
